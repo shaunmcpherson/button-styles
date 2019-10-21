@@ -40,9 +40,11 @@ html {
   background-color: #666;
 }
 
+.btn-border {
+  border: 3px solid #333;
+}
 .btn-ghost {
   color: #333;
-  border: 3px solid #333;
   background-color: #fff;
   line-height: 1.55;
 }
