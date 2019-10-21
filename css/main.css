@@ -44,6 +44,7 @@ html {
   color: #333;
   border: 3px solid #333;
   background-color: #fff;
+  line-height: 1.55;
 }
 
 .btn-ghost:hover {
