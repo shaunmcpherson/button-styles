@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: normal 100%/1.5 sans-serif;
+  font: normal 120%/1.5 sans-serif;
 }
 
 *, *::before, *::after {
@@ -47,7 +47,7 @@ html {
 
 .btn-ghost:hover {
   color: #fff;
-  border: 3px solid #666 ;
+  border: 3px solid #666;
   background-color: #666;
 }
 
