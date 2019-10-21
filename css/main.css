@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: normal 120%/1.5 sans-serif;
+  font: normal 100%/1.5 sans-serif;
 }
 
 *, *::before, *::after {
@@ -9,6 +9,7 @@ html {
 
 .btn {
   display: inline-block;
+  margin: 0;
   padding: .4em .75em .3em;
   background-color: #333;
   border-radius: 8px;
@@ -16,7 +17,7 @@ html {
   text-decoration: none;
   text-align: center;
   font-size: 1.125rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 .btn:hover {
