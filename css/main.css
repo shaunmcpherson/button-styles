@@ -23,6 +23,24 @@ html {
   background-color: #000;
 }
 
+.btn-warning {
+  background-color: #f33;
+}
+
+.btn-warning:hover {
+
+}
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-ghost {
+  color: #333;
+  border: 3px solid #333;
+  background-color: #fff;
+}
+
 .btn-big {
   font-size: 1.5rem;
 }
