@@ -7,6 +7,30 @@ html {
   box-sizing: inherit;
 }
 
+.btn {
+  display: inline-block;
+  padding: .4em .75em .3em;
+  background-color: #333;
+  border-radius: 8px;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
+
+.btn-small {
+  font-size: .875rem;
+}
+
 div {
   padding: .5rem;
   text-align: center;
